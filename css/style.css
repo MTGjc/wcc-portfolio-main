@@ -76,6 +76,10 @@ footer{
     background-image: url(../assets/images/custom-image-name.jpeg); 
 } */
 
+.flex-item a#rash{
+    background-color: blue;
+}
+
 
 .flex-item a:hover{
     color:#bbbbbb;
